@@ -450,3 +450,12 @@
 	allow_duplicates = FALSE
 	cost = 2
 	can_found = TRUE
+
+/datum/map_template/ruin/space/oldnukieshuttle
+	id = "oldnukieshuttle"
+	suffix = "oldnukieshuttle.dmm"
+	name = "Abandoned Operative Shuttle"
+	description = "Elite Operative Shuttle, currently a pile of metal."
+	allow_duplicates = FALSE
+	cost = 2
+	can_found = TRUE

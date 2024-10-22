@@ -1,0 +1,1755 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"an" = (
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"ar" = (
+/obj/item/storage/backpack/duffel/syndie/surgery_fake,
+/obj/structure/table/glass,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"bL" = (
+/obj/machinery/door/airlock/syndicate/security/glass{
+	name = "Security Airlock";
+	req_access = list(150)
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"cH" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/machinery/power/apc{
+	cell_type = 25000;
+	dir = 4;
+	pixel_x = 26;
+	shock_proof = 1
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"dU" = (
+/obj/structure/chair/comfy/shuttle/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"eb" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"fq" = (
+/obj/structure/closet/crate/medical,
+/obj/item/robot_parts/r_leg,
+/obj/item/robot_parts/robot_component/camera,
+/obj/item/robot_parts/robot_component/armour,
+/obj/item/robot_parts/l_arm,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"gj" = (
+/obj/structure/grille,
+/obj/structure/window/full/shuttle/gray,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor13"
+	},
+/area/ruin/oldnukieshuttle)
+"hj" = (
+/obj/machinery/atmospherics/pipe/simple/visible{
+	dir = 5
+	},
+/obj/item/gun/projectile/automatic/pistol,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"jH" = (
+/obj/structure/table,
+/obj/item/lighter/zippo/contractor,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"jL" = (
+/obj/structure/table,
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/recharger{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"lq" = (
+/obj/machinery/teleport/hub,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"lw" = (
+/obj/structure/reagent_dispensers/beerkeg/nuke,
+/obj/machinery/door/window/brigdoor/westleft{
+	base_state = "rightsecure";
+	color = "#d70000";
+	icon_state = "rightsecure";
+	req_access = list(150);
+	dir = 1
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"lU" = (
+/obj/structure/table/glass,
+/obj/item/implantcase/explosive,
+/obj/item/trash/syndi_cakes,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"mo" = (
+/obj/effect/turf_decal/number/number_4{
+	dir = 8
+	},
+/obj/effect/turf_decal/number/number_5{
+	dir = 4;
+	do_not_delete_me = 1
+	},
+/obj/item/trash/syndi_cakes,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"my" = (
+/obj/machinery/iv_drip,
+/obj/item/reagent_containers/iv_bag/blood,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"mG" = (
+/obj/effect/decal/cleanable/glass/plasma,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"mT" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"ni" = (
+/obj/effect/decal/cleanable/blood/writing{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"nm" = (
+/obj/machinery/light{
+	dir = 4;
+	switchcount = 50
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"no" = (
+/obj/structure/chair/comfy/shuttle/dark{
+	dir = 1
+	},
+/obj/structure/sign/poster/contraband/syndicate_recruitment{
+	pixel_x = -32
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 6
+	},
+/obj/machinery/light_construct{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"nz" = (
+/obj/machinery/door/airlock/external,
+/obj/structure/fans/tiny,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"og" = (
+/obj/machinery/sleeper{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"oD" = (
+/obj/item/aicard,
+/obj/structure/closet/syndicate,
+/obj/item/grenade/plastic/c4{
+	pixel_x = -4;
+	pixel_y = -2
+	},
+/obj/effect/turf_decal/box,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"oJ" = (
+/obj/item/reagent_containers/syringe,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"qb" = (
+/obj/structure/window/plasmareinforced{
+	color = "#FF0000";
+	dir = 1
+	},
+/obj/structure/shuttle/engine/heater,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"qq" = (
+/obj/structure/computerframe,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"qJ" = (
+/obj/structure/table,
+/obj/machinery/kitchen_machine/microwave{
+	pixel_y = 6
+	},
+/obj/item/trash/syndi_cakes,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"qM" = (
+/turf/space,
+/area/space)
+"rg" = (
+/obj/structure/lattice,
+/obj/item/organ/internal/ears,
+/obj/machinery/light_construct{
+	dir = 8
+	},
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"rh" = (
+/obj/item/ammo_casing/c9mm,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"rB" = (
+/obj/machinery/porta_turret/syndicate,
+/turf/simulated/wall/mineral/plastitanium,
+/area/ruin/oldnukieshuttle)
+"rM" = (
+/obj/structure/window/plasmareinforced{
+	color = "#d70000";
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"rY" = (
+/obj/machinery/door/window/brigdoor/westleft{
+	base_state = "rightsecure";
+	color = "#d70000";
+	dir = 4;
+	icon_state = "rightsecure";
+	req_access = list(150)
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"uj" = (
+/obj/structure/lattice,
+/obj/item/ammo_casing/a762{
+	pixel_x = 11
+	},
+/obj/item/shard/plasma,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"vh" = (
+/obj/structure/window/plasmareinforced{
+	color = "#d70000";
+	dir = 4
+	},
+/obj/structure/rack,
+/obj/effect/decal/cleanable/blood,
+/obj/item/clothing/suit/space/syndicate,
+/obj/item/clothing/head/helmet/space/syndicate,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"vq" = (
+/obj/item/ammo_casing/c9mm,
+/obj/item/organ/internal/eyes,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"vz" = (
+/obj/machinery/atmospherics/pipe/simple/visible{
+	dir = 5
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"wp" = (
+/obj/machinery/atmospherics/unary/vent_pump/high_volume{
+	dir = 8;
+	frequency = 1331;
+	id_tag = "synd_pump_bottom"
+	},
+/obj/effect/decal/cleanable/blood/gibs/body,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"wt" = (
+/obj/machinery/vending/wallmed/syndicate{
+	pixel_x = -30
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"wA" = (
+/obj/structure/closet/crate/trashcart/gibs,
+/obj/item/organ/internal/brain,
+/obj/item/organ/internal/liver,
+/obj/item/organ/internal/eyes,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"wN" = (
+/obj/structure/shuttle/engine/propulsion,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"xg" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"xs" = (
+/obj/effect/decal/cleanable/glass/plasma,
+/obj/item/ammo_casing/compact/penetrator,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"xB" = (
+/obj/structure/window/plasmareinforced{
+	color = "#d70000";
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"yx" = (
+/obj/structure/table,
+/obj/item/storage/firstaid/adv,
+/obj/item/reagent_containers/syringe,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"yC" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"yF" = (
+/obj/machinery/constructable_frame,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"zx" = (
+/obj/structure/chair/comfy/shuttle/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 10;
+	do_not_delete_me = 1
+	},
+/obj/machinery/light{
+	dir = 4;
+	switchcount = 50
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"zO" = (
+/obj/effect/turf_decal/number/number_1{
+	dir = 8
+	},
+/obj/effect/turf_decal/number/number_8{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"zR" = (
+/obj/effect/decal/cleanable/blood/writing{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/glass/plasma,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Ai" = (
+/obj/item/ammo_casing/a762{
+	pixel_y = 5
+	},
+/turf/space,
+/area/space)
+"Aw" = (
+/obj/structure/sign/poster/secret/Viper{
+	pixel_y = 32
+	},
+/obj/structure/table_frame,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"AC" = (
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"AL" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/wall/mineral/plastitanium,
+/area/ruin/oldnukieshuttle)
+"AO" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/item/ammo_casing/compact/soporific,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"BX" = (
+/obj/item/clothing/shoes/magboots/syndie,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"Ch" = (
+/obj/machinery/recharge_station/upgraded,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"Cn" = (
+/obj/item/ammo_casing/a357{
+	pixel_x = 12
+	},
+/obj/item/ammo_casing/a357,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"Cx" = (
+/obj/machinery/atmospherics/unary/tank/air{
+	dir = 4
+	},
+/turf/simulated/wall/mineral/plastitanium,
+/area/ruin/oldnukieshuttle)
+"CE" = (
+/obj/structure/table,
+/obj/item/storage/toolbox/syndicate,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"De" = (
+/obj/effect/decal/cleanable/blood/writing{
+	dir = 4
+	},
+/obj/item/ammo_casing/compact/soporific,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Dg" = (
+/obj/machinery/atmospherics/pipe/simple/visible{
+	dir = 6
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"DG" = (
+/obj/structure/table,
+/obj/item/organ/internal/lungs,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"Ed" = (
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"Em" = (
+/obj/structure/window/plasmareinforced{
+	color = "#d70000";
+	dir = 8
+	},
+/obj/structure/holosign/barrier/atmos,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Eo" = (
+/obj/item/organ/internal/eyes,
+/turf/space,
+/area/space)
+"Fh" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"FI" = (
+/obj/machinery/bodyscanner{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"FY" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/structure/table_frame,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Gi" = (
+/obj/structure/chair/comfy/shuttle/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"Gl" = (
+/obj/item/trash/syndi_cakes,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"Gw" = (
+/obj/structure/lattice,
+/obj/item/card/id/syndicate,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"Hb" = (
+/obj/machinery/atmospherics/unary/vent_pump/high_volume{
+	dir = 8;
+	frequency = 1331;
+	id_tag = "synd_pump_bottom"
+	},
+/obj/item/ammo_casing/c9mm,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"Hl" = (
+/obj/machinery/door/window/brigdoor/westleft{
+	base_state = "rightsecure";
+	color = "#d70000";
+	dir = 4;
+	icon_state = "rightsecure";
+	req_access = list(150)
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"Id" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/item/organ/internal/ears,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"Iy" = (
+/obj/effect/turf_decal/number/number_3{
+	dir = 8
+	},
+/obj/effect/turf_decal/number/number_6{
+	dir = 4;
+	do_not_delete_me = 1
+	},
+/obj/effect/decal/cleanable/blood/drip,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"IW" = (
+/obj/machinery/door/airlock/external,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"KZ" = (
+/obj/structure/holosign/barrier/atmos,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Me" = (
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Mj" = (
+/obj/effect/turf_decal/number/number_2{
+	dir = 8
+	},
+/obj/effect/turf_decal/number/number_7{
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"MA" = (
+/obj/structure/lattice,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"Nv" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/item/organ/internal/eyes,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"NC" = (
+/obj/machinery/recharge_station/upgraded,
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium"
+	},
+/area/ruin/oldnukieshuttle)
+"Ok" = (
+/obj/machinery/light_construct{
+	dir = 1
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Ov" = (
+/obj/structure/lattice,
+/obj/item/ammo_casing/a762,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"OD" = (
+/obj/machinery/atmospherics/pipe/simple/visible{
+	dir = 10
+	},
+/obj/item/organ/internal/brain,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"OE" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"Pa" = (
+/obj/effect/decal/cleanable/blood/drip,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"Pd" = (
+/obj/structure/table,
+/obj/item/storage/fancy/cigarettes/cigpack_syndicate,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"PR" = (
+/obj/structure/closet/syndicate,
+/obj/item/storage/box/zipties,
+/obj/item/paintkit/gygax_syndie,
+/obj/effect/turf_decal/box,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"QF" = (
+/obj/machinery/atmospherics/pipe/manifold/visible{
+	dir = 4
+	},
+/obj/item/organ/internal/ears,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"Ra" = (
+/obj/structure/lattice,
+/obj/item/ammo_casing/a762,
+/obj/item/ammo_casing/a762{
+	pixel_y = 5
+	},
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"Rs" = (
+/obj/machinery/atmospherics/pipe/simple/visible{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood/gibs/body,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"Ry" = (
+/obj/structure/door_assembly/door_assembly_ext,
+/obj/structure/fans/tiny,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "dark"
+	},
+/area/ruin/oldnukieshuttle)
+"RG" = (
+/obj/machinery/constructable_frame,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"TD" = (
+/obj/structure/lattice,
+/obj/item/ammo_casing/a762{
+	pixel_x = 11
+	},
+/obj/item/ammo_casing/a762,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"Ue" = (
+/obj/structure/window/plasmareinforced{
+	color = "#FF0000";
+	dir = 1
+	},
+/obj/item/flag/syndi,
+/obj/structure/window/plasmareinforced{
+	color = "#d70000";
+	dir = 4
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"UY" = (
+/obj/machinery/computer/operating,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"UZ" = (
+/obj/item/organ/internal/brain,
+/turf/space,
+/area/space)
+"Vq" = (
+/obj/item/organ/internal/brain,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Wn" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/item/syndicate_reverse_card,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"WK" = (
+/obj/machinery/suit_storage_unit,
+/obj/item/clothing/suit/space/hardsuit/syndi/damaged,
+/turf/simulated/floor/plating/airless,
+/area/ruin/oldnukieshuttle)
+"Xd" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"XB" = (
+/obj/item/ammo_casing/compact/soporific,
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"XJ" = (
+/obj/structure/table,
+/obj/machinery/cell_charger,
+/obj/item/stock_parts/cell/bluespace/empty,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"XW" = (
+/obj/item/ammo_casing/a357{
+	pixel_x = 12
+	},
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+"Yi" = (
+/obj/structure/lattice,
+/obj/structure/holosign/barrier/atmos,
+/turf/space,
+/area/ruin/oldnukieshuttle)
+"Yr" = (
+/obj/machinery/optable,
+/obj/item/tank/internals/anesthetic,
+/obj/item/clothing/mask/breath/medical,
+/obj/effect/decal/cleanable/blood,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/simulated/floor/shuttle{
+	icon_state = "floor3"
+	},
+/area/ruin/oldnukieshuttle)
+"YR" = (
+/turf/simulated/wall/mineral/plastitanium,
+/area/ruin/oldnukieshuttle)
+"ZV" = (
+/obj/effect/decal/cleanable/blood/drip,
+/turf/simulated/floor/shuttle{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "plastitanium_red"
+	},
+/area/ruin/oldnukieshuttle)
+
+(1,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(2,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(3,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(4,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(5,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(6,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(7,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+YR
+YR
+YR
+YR
+YR
+YR
+rB
+qM
+qM
+qM
+qM
+"}
+(8,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+rB
+YR
+YR
+YR
+YR
+YR
+yF
+og
+FI
+Yr
+UY
+qb
+wN
+qM
+qM
+qM
+qM
+"}
+(9,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+qJ
+jL
+XJ
+YR
+wA
+xg
+an
+oJ
+AO
+ar
+qb
+wN
+qM
+qM
+qM
+qM
+"}
+(10,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+CE
+ZV
+AC
+YR
+Pd
+XB
+Wn
+an
+my
+lU
+qb
+wN
+qM
+qM
+qM
+qM
+"}
+(11,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+oD
+AC
+AC
+YR
+Aw
+an
+Pa
+fq
+YR
+YR
+YR
+YR
+qM
+qM
+qM
+qM
+"}
+(12,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+rB
+qM
+qM
+qM
+qM
+YR
+PR
+AC
+ZV
+AL
+DG
+yC
+an
+yx
+YR
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(13,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+eb
+YR
+YR
+YR
+YR
+YR
+YR
+YR
+xB
+rY
+YR
+YR
+rM
+Hl
+vh
+YR
+rB
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(14,1,1) = {"
+qM
+qM
+qM
+qM
+Me
+Nv
+YR
+Ch
+Fh
+dU
+dU
+dU
+no
+AC
+xs
+Gl
+wt
+mG
+ni
+Ue
+qb
+wN
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(15,1,1) = {"
+qM
+qM
+qM
+mT
+Vq
+AC
+bL
+Xd
+AC
+mo
+Iy
+Mj
+zO
+ZV
+AC
+XW
+ZV
+Cn
+De
+lw
+qb
+wN
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(16,1,1) = {"
+qM
+qM
+gj
+qq
+AC
+BX
+YR
+NC
+cH
+Gi
+Gi
+Gi
+zx
+AC
+Xd
+AC
+nm
+Me
+zR
+Em
+qb
+wN
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(17,1,1) = {"
+qM
+qM
+gj
+jH
+Xd
+Id
+YR
+YR
+YR
+YR
+YR
+YR
+Cx
+IW
+IW
+YR
+YR
+KZ
+Yi
+uj
+YR
+rB
+MA
+qM
+qM
+qM
+qM
+qM
+"}
+(18,1,1) = {"
+qM
+qM
+rB
+YR
+YR
+YR
+rB
+qM
+qM
+qM
+qM
+YR
+OD
+vz
+Ed
+YR
+FY
+MA
+qM
+qM
+rg
+qM
+Ra
+qM
+qM
+qM
+qM
+qM
+"}
+(19,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+Ry
+OE
+Rs
+vq
+YR
+Ok
+UZ
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(20,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+nz
+Dg
+QF
+hj
+YR
+RG
+Ov
+qM
+Ai
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(21,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+wp
+rh
+Hb
+YR
+lq
+MA
+Eo
+qM
+qM
+MA
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(22,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+rB
+YR
+YR
+YR
+YR
+YR
+WK
+MA
+qM
+qM
+Gw
+TD
+qM
+qM
+qM
+qM
+qM
+"}
+(23,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+YR
+AL
+mT
+MA
+qM
+YR
+YR
+rB
+qM
+qM
+qM
+qM
+"}
+(24,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+MA
+qM
+qM
+qM
+qM
+"}
+(25,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(26,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(27,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}
+(28,1,1) = {"
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+qM
+"}

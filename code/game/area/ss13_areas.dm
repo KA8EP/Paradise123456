@@ -3088,6 +3088,10 @@ GLOBAL_LIST_INIT(centcom_areas, list(
 	name = "Space_abandoned_banya"
 	icon_state = "barstation"
 
+/area/ruin/oldnukieshuttle
+	name = "Abandoned Operative Shuttle"
+	icon_state = "away"
+
 //pirate base
 /area/ruin/space/pirate_base
 	name = "pirates base "
